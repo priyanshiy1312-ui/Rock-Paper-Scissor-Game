@@ -2,7 +2,7 @@
 A fun and interactive Rock Paper Scissors game built with HTML, CSS, and JavaScript, featuring real-time gameplay, score tracking, and responsive design."
 Players can compete against the computer by choosing Rock, Paper, or Scissors. The game instantly determines the winner, updates the score, and provides a fun and engaging user experience.
 <hr>
-<h3>## 🚀Features</h3>
+<h3>🚀Features</h3>
 
 * User-friendly interface
 * Random computer choice generation
@@ -10,13 +10,13 @@ Players can compete against the computer by choosing Rock, Paper, or Scissors. T
 * Score tracking system
 * Responsive design for different screen sizes
 <hr>
-<h3>##🛠️ Teck Stack</h3>
+<h3>🛠️ Teck Stack</h3>
 
 * HTML
 * CSS
 * JavaScript
 <hr>
-<h3>##📂 Project Structure</h3>
+<h3>📂 Project Structure</h3>
 
 Rock Paper Scissor-Game/
 <br>
@@ -32,7 +32,7 @@ Rock Paper Scissor-Game/
 <br>
 └── README.md
 <hr>
-<h3>##📚Learning outcomes</h3>
+<h3>📚Learning outcomes</h3>
 <ul>
 <li>DOM manipulation</li>
 <li>Event handling</li>
@@ -41,12 +41,12 @@ Rock Paper Scissor-Game/
 UI styling and layout</ul>
 <hr>
 
-<h3>##🎯 How to Play</h3>
+<h3>🎯 How to Play</h3>
 <ul>
 <li>Select Rock, Paper, or Scissors.</li>
 <li>The computer will randomly make its choice.</li>
 <li>The game compares both choices and declares the winner.</li>
 <li>Scores are updated automatically after each round.</li></ul>
 <hr>
-#Author
+<h3>Author</h3>
 Built as part of my web development learning journey.
